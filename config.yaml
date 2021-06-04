@@ -3,9 +3,13 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        egomotion: 5
+        monocular depth: 4
+        camera motion estimation: 3
+        SLAM: 3
+        endoscopy: 2
+        endoscope: 2
+        SOTA: 2
 
 # 通知の閾値
 score_threshold: 0
