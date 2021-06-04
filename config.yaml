@@ -9,7 +9,7 @@ keywords:
         SLAM: 3
         endoscopy: 2
         endoscope: 2
-        SOTA: 2
+        SOTA: 1
 
 # 通知の閾値
 score_threshold: 0
