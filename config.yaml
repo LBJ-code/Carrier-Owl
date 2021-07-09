@@ -3,6 +3,7 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
+        visual odometry: 5
         egomotion: 5
         monocular depth: 4
         camera motion estimation: 3
